@@ -1,0 +1,17 @@
+Everything in Command Prompt 
+
+
+code . | Opens Visiual Studios
+
+
+node . | Sets the bot online
+
+node . (again) | exists out of bot(goes offline)
+
+
+
+
+
+
+
+
