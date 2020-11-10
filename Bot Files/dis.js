@@ -48,4 +48,4 @@ client.on('message', message =>{
 });
 
 //Ending line, token
-client.login('NDg2MjA0MTc3NzczNzU2NDQy.W41a7Q.5gefGCt-g5n58qXFVGFbf0hccgs');
+client.login('');
